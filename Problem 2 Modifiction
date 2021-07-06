@@ -1,0 +1,9 @@
+I changed the hidden units from 20->40 and 
+the improvement spiked earlier than in problem 1...
+
+At Epoch 39, it was an improvement of 0.6% so it seems like
+the progrram stagnates over time but at earlier Epoches
+At Epoch 29, there is a gap around 2% of improved accuracy for 
+testing from Problem 1 and Problem 2. 
+At epoch 31, there is a 4% gap of improved accuracy for testing
+from Problem 1 to Problem 2 
